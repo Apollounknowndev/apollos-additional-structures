@@ -1,0 +1,51 @@
+{
+    "name": "apollo:ruins/base",
+    "fallback": "minecraft:empty",
+    "elements": [
+        {
+            "weight": 1,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "projection": "rigid",
+                "location": "apollo:ruins/house_1",
+                "processors": "apollo:ruins/degraded"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "projection": "rigid",
+                "location": "apollo:ruins/pillar_1",
+                "processors": "apollo:ruins/degraded"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "projection": "rigid",
+                "location": "apollo:ruins/pillar_2",
+                "processors": "apollo:ruins/degraded"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "projection": "rigid",
+                "location": "apollo:ruins/pillar_3",
+                "processors": "apollo:ruins/degraded"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "projection": "rigid",
+                "location": "apollo:ruins/shrine_1",
+                "processors": "apollo:ruins/degraded"
+            }
+        }
+    ]
+}

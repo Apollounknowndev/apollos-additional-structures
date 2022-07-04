@@ -1,0 +1,25 @@
+{
+    "name": "apollo:biome_specifics/badlands/outpost/center",
+    "fallback": "minecraft:empty",
+    "elements": [
+      {
+        "weight": 1,
+        "element": {
+          "element_type": "minecraft:single_pool_element",
+          "projection": "rigid",
+          "location": "apollo:biome_specifics/badlands/outpost/center_1",
+          "processors": "minecraft:empty"
+        }
+      },
+      {
+        "weight": 1,
+        "element": {
+          "element_type": "minecraft:single_pool_element",
+          "projection": "rigid",
+          "location": "apollo:biome_specifics/badlands/outpost/center_2",
+          "processors": "minecraft:empty"
+        }
+      }
+    ]
+  }
+  

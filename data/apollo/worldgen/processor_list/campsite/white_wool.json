@@ -1,0 +1,44 @@
+{
+    "processors": [
+      {
+        "processor_type": "minecraft:rule",
+        "rules": [
+          {
+            "location_predicate": {
+              "predicate_type": "minecraft:always_true"
+            },
+            "input_predicate": {
+              "predicate_type": "minecraft:block_match",
+              "block": "minecraft:stone"
+            },
+            "output_state": {
+              "Name": "minecraft:white_bed",
+              "Properties": {
+                "part": "head",
+                "facing": "south",
+                "occupied": "false"
+              }
+            }
+          },
+          {
+            "location_predicate": {
+              "predicate_type": "minecraft:always_true"
+            },
+            "input_predicate": {
+              "predicate_type": "minecraft:block_match",
+              "block": "minecraft:andesite"
+            },
+            "output_state": {
+              "Name": "minecraft:white_bed",
+              "Properties": {
+                "part": "foot",
+                "facing": "south",
+                "occupied": "false"
+              }
+            }
+          }
+        ]
+      }
+    ]
+  }
+  
