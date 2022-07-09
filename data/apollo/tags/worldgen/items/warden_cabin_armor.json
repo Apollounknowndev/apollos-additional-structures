@@ -1,0 +1,12 @@
+{
+    "replace": false,
+    "values": [
+      "minecraft:diamond_boots",
+      "minecraft:diamond_helmet",
+      "minecraft:iron_helmet",
+      "minecraft:iron_chestplate",
+      "minecraft:iron_leggings",
+      "minecraft:iron_boots"
+    ]
+  }
+  

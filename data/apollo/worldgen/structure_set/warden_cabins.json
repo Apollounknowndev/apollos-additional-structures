@@ -1,0 +1,19 @@
+{
+    "structures": [
+      {
+        "structure": "apollo:warden_cabin",
+        "weight": 1
+      }
+    ],
+    "placement": {
+      "type": "minecraft:random_spread",
+      "salt": 1675134047,
+      "exclusion_zone": {
+        "other_set": "minecraft:ancient_cities",
+        "chunk_count": 5
+      },
+      "spacing": 12,
+      "separation": 6
+    }
+  }
+  

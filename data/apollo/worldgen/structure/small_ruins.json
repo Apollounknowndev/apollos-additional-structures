@@ -1,10 +1,10 @@
 {
     "type": "minecraft:jigsaw",
-    "biomes": "#apollo:has_structure/ruins",
+    "biomes": "#apollo:has_structure/small_ruins",
     "step": "surface_structures",
     "spawn_overrides": {},
     "terrain_adaptation": "beard_thin",
-    "start_pool": "apollo:ruins/base",
+    "start_pool": "apollo:small_ruins/base",
     "size": 6,
     "start_height": {
       "absolute": 0
