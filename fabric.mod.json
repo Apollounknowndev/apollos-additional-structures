@@ -1,15 +1,14 @@
 {
   "schemaVersion": 1,
   "id": "apollo",
-  "version": "1.2",
+  "version": "1.2.1",
   "name": "Apollo's Additional Structures",
   "description": "Adds some new ambient structures into your Minecraft world!",
   "authors": [
     "Apollo404"
   ],
   "contact": {
-    "homepage": "https://www.planetminecraft.com/data-pack/apollo-s-additional-structures/",
-    "discord": "https://discord.gg/vFz67Pvceu"
+    "homepage": "https://www.planetminecraft.com/data-pack/apollo-s-additional-structures/"
   },
   "license": "LGPL-3.0-only",
   "icon": "pack.png",
@@ -21,7 +20,7 @@
   "depends": {
     "fabricloader": ">=0.12.7",
     "fabric-api-base": "*",
-    "minecraft": ">=1.19-beta.1"
+    "minecraft": ">=1.19"
   },
   "custom": {
     "modmenu": {

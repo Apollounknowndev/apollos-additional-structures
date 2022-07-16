@@ -12,8 +12,8 @@
         "other_set": "minecraft:ancient_cities",
         "chunk_count": 5
       },
-      "spacing": 12,
-      "separation": 6
+      "spacing": 10,
+      "separation": 4
     }
   }
   
