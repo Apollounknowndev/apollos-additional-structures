@@ -1,0 +1,25 @@
+{
+    "name": "apollo:biome_specifics/deep_dark/warden_cabin",
+    "fallback": "minecraft:empty",
+    "elements": [
+      {
+        "weight": 3,
+        "element": {
+          "element_type": "minecraft:single_pool_element",
+          "projection": "rigid",
+          "location": "apollo:biome_specifics/deep_dark/cabin/small_cabin",
+          "processors": "apollo:biome_specifics/deep_dark/cabin_degraded"
+        }
+      },
+      {
+        "weight": 1,
+        "element": {
+          "element_type": "minecraft:single_pool_element",
+          "projection": "rigid",
+          "location": "apollo:biome_specifics/deep_dark/cabin/medium_cabin",
+          "processors": "apollo:biome_specifics/deep_dark/cabin_degraded"
+        }
+      }
+    ]
+  }
+  

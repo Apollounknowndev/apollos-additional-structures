@@ -1,0 +1,33 @@
+{
+  "name": "apollo:campsite/centers",
+  "fallback": "minecraft:empty",
+  "elements": [
+    {
+      "weight": 2,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "location": "apollo:campsite/center/birch_center",
+        "processors": "apollo:campsite/center"
+      }
+    },
+    {
+      "weight": 2,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "location": "apollo:campsite/center/oak_center",
+        "processors": "apollo:campsite/center"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "location": "apollo:campsite/center/spruce_center",
+        "processors": "apollo:campsite/center"
+      }
+    }
+  ]
+}
