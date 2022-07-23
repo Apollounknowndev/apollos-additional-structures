@@ -1,0 +1,10 @@
+{
+    "replace": false,
+    "values": [
+        "minecraft:deep_dark",
+        {
+          "id": "terralith:cave/frostfire_caves",
+          "required": false
+        }
+    ]
+}

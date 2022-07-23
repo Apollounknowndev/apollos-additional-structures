@@ -1,0 +1,311 @@
+{
+  "type": "minecraft:chest",
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:paper",
+          "functions": [
+            {
+              "function": "minecraft:set_name",
+              "entity": "this",
+              "name": {
+                "translate": "Mysterious Note"
+              }
+            },
+            {
+              "function": "minecraft:set_lore",
+              "entity": "this",
+              "lore": [
+                {
+                  "text": "I met a traveler from an antique land,",
+                  "color": "#A3A3A3",
+                  "font": "illageralt",
+                  "italic": false
+                },
+                {
+                  "text": "who said, \"Two vast and trunkless legs of stone",
+                  "color": "#A3A3A3",
+                  "font": "illageralt",
+                  "italic": false
+                },
+                {
+                  "text": "1/7"
+                },
+                "",
+                {
+                  "translate": "Apollo's Additional Structures",
+                  "color": "#3A1E79"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{AAS:[{interal_version:1b},{Lore:[{exists:1b,id:\"ozymandias\",value:1b}]}]}"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:paper",
+          "functions": [
+            {
+              "function": "minecraft:set_name",
+              "entity": "this",
+              "name": {
+                "translate": "Mysterious Note"
+              }
+            },
+            {
+              "function": "minecraft:set_lore",
+              "entity": "this",
+              "lore": [
+                {
+                  "text": "stand in the desert. Near them, on the sand,",
+                  "color": "#A3A3A3",
+                  "font": "illageralt",
+                  "italic": false
+                },
+                {
+                  "text": "half sunk, a shattered visage lies. whose frown,",
+                  "color": "#A3A3A3",
+                  "font": "illageralt",
+                  "italic": false
+                },
+                {
+                  "text": "2/7"
+                },
+                "",
+                {
+                  "translate": "Apollo's Additional Structures",
+                  "color": "#3A1E79"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{AAS:[{interal_version:1b},{Lore:[{exists:1b,id:\"ozymandias\",value:2b}]}]}"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:paper",
+          "functions": [
+            {
+              "function": "minecraft:set_name",
+              "entity": "this",
+              "name": {
+                "translate": "Mysterious Note"
+              }
+            },
+            {
+              "function": "minecraft:set_lore",
+              "entity": "this",
+              "lore": [
+                {
+                  "text": "and wrinkled lip, and sneer of cold command,",
+                  "color": "#A3A3A3",
+                  "font": "illageralt",
+                  "italic": false
+                },
+                {
+                  "text": "tell that its sculptor well those passions read,",
+                  "color": "#A3A3A3",
+                  "font": "illageralt",
+                  "italic": false
+                },
+                {
+                  "text": "3/7"
+                },
+                "",
+                {
+                  "translate": "Apollo's Additional Structures",
+                  "color": "#3A1E79"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{AAS:[{interal_version:1b},{Lore:[{exists:1b,id:\"ozymandias\",value:3b}]}]}"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:paper",
+          "functions": [
+            {
+              "function": "minecraft:set_name",
+              "entity": "this",
+              "name": {
+                "translate": "Mysterious Note"
+              }
+            },
+            {
+              "function": "minecraft:set_lore",
+              "entity": "this",
+              "lore": [
+                {
+                  "text": "which yet survive, stamped on these lifeless things,",
+                  "color": "#A3A3A3",
+                  "font": "illageralt",
+                  "italic": false
+                },
+                {
+                  "text": "the hand that mocked them, and the heart that fed:",
+                  "color": "#A3A3A3",
+                  "font": "illageralt",
+                  "italic": false
+                },
+                {
+                  "text": "4/7"
+                },
+                "",
+                {
+                  "translate": "Apollo's Additional Structures",
+                  "color": "#3A1E79"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{AAS:[{interal_version:1b},{Lore:[{exists:1b,id:\"ozymandias\",value:4b}]}]}"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:paper",
+          "functions": [
+            {
+              "function": "minecraft:set_name",
+              "entity": "this",
+              "name": {
+                "translate": "Mysterious Note"
+              }
+            },
+            {
+              "function": "minecraft:set_lore",
+              "entity": "this",
+              "lore": [
+                {
+                  "text": "And on the pedestal these words appear:",
+                  "color": "#A3A3A3",
+                  "font": "illageralt",
+                  "italic": false
+                },
+                {
+                  "text": "\"My name is OZYMANDIAS, King of Kings.",
+                  "color": "#A3A3A3",
+                  "font": "illageralt",
+                  "italic": false
+                },
+                {
+                  "text": "5/7"
+                },
+                "",
+                {
+                  "translate": "Apollo's Additional Structures",
+                  "color": "#3A1E79"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{AAS:[{interal_version:1b},{Lore:[{exists:1b,id:\"ozymandias\",value:5b}]}]}"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:paper",
+          "functions": [
+            {
+              "function": "minecraft:set_name",
+              "entity": "this",
+              "name": {
+                "translate": "Mysterious Note"
+              }
+            },
+            {
+              "function": "minecraft:set_lore",
+              "entity": "this",
+              "lore": [
+                {
+                  "text": "Look on my works, ye Mighty, and despair!",
+                  "color": "#A3A3A3",
+                  "font": "illageralt",
+                  "italic": false
+                },
+                {
+                  "text": "Nothing baside remains. Round the decay",
+                  "color": "#A3A3A3",
+                  "font": "illageralt",
+                  "italic": false
+                },
+                {
+                  "text": "6/7"
+                },
+                "",
+                {
+                  "translate": "Apollo's Additional Structures",
+                  "color": "#3A1E79"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{AAS:[{interal_version:1b},{Lore:[{exists:1b,id:\"ozymandias\",value:6b}]}]}"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:paper",
+          "functions": [
+            {
+              "function": "minecraft:set_name",
+              "entity": "this",
+              "name": {
+                "translate": "Mysterious Note"
+              }
+            },
+            {
+              "function": "minecraft:set_lore",
+              "entity": "this",
+              "lore": [
+                {
+                  "text": "of that Colossal Wreck, boundless and bare,",
+                  "color": "#A3A3A3",
+                  "font": "illageralt",
+                  "italic": false
+                },
+                {
+                  "text": "the lone and level sands stretch far away.",
+                  "color": "#A3A3A3",
+                  "font": "illageralt",
+                  "italic": false
+                },
+                {
+                  "text": "7/7"
+                },
+                "",
+                {
+                  "translate": "Apollo's Additional Structures",
+                  "color": "#3A1E79"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{AAS:[{interal_version:1b},{Lore:[{exists:1b,id:\"ozymandias\",value:7b}]}]}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

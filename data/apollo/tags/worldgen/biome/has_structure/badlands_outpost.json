@@ -1,0 +1,41 @@
+{
+    "replace": false,
+    "values": [
+      "minecraft:badlands",
+      "minecraft:eroded_badlands",
+      "minecraft:wooded_badlands",
+      {
+        "id": "wythers:ayers_rock",
+        "required": false
+    },
+    {
+        "id": "wythers:outback",
+        "required": false
+    },
+    {
+        "id": "wythers:outback_desert",
+        "required": false
+    },
+    {
+        "id": "wythers:badlands_canyon",
+        "required": false
+    },
+    {
+        "id": "wythers:badlands_desert",
+        "required": false
+    },
+    {
+        "id": "wythers:kwongan_heath",
+        "required": false
+    },
+    {
+        "id": "wythers:red_desert",
+        "required": false
+    },
+    {
+        "id": "wythers:red_rock_canyon",
+        "required": false
+    }
+  ]
+}
+  

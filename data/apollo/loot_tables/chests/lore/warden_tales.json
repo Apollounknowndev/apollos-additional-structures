@@ -1,0 +1,69 @@
+{
+    "type": "minecraft:chest",
+    "pools": [
+      {
+        "rolls": 1,
+        "entries": [
+          {
+            "type": "minecraft:item",
+            "name": "minecraft:paper",
+            "functions": [
+              {
+                "function": "minecraft:set_name",
+                "entity": "this",
+                "name": {
+                  "translate": "Mysterious Note"
+                }
+              },
+              {
+                "function": "minecraft:set_lore",
+                "entity": "this",
+                "lore": [
+                  {
+                    "text": "The mission to hunt down",
+                    "color": "#A3A3A3",
+                    "font": "illageralt",
+                    "italic": false
+                  },
+                  {
+                    "text": "and slay the Warden has",
+                    "color": "#A3A3A3",
+                    "font": "illageralt",
+                    "italic": false
+                  },
+                  {
+                    "text": "failed. It is simply too powerful.",
+                    "color": "#A3A3A3",
+                    "font": "illageralt",
+                    "italic": false
+                  },
+                  {
+                    "text": "There is no escape to",
+                    "color": "#A3A3A3",
+                    "font": "illageralt",
+                    "italic": false
+                  },
+                  {
+                    "text": "this nightmare.",
+                    "color": "#A3A3A3",
+                    "font": "illageralt",
+                    "italic": false
+                  },
+                  "",
+                  {
+                    "translate": "Apollo's Additional Structures",
+                    "color": "#3A1E79"
+                  }
+                ]
+              },
+              {
+                "function": "minecraft:set_nbt",
+                "tag": "{AAS:[{interal_version:1b},{Lore:[{exists:1b,id:\"warden_tales\",value:1b}]}]}"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+  

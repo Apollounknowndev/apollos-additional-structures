@@ -1,0 +1,23 @@
+{
+    "structures": [
+      {
+        "structure": "apollo:abandoned_house",
+        "weight": 1
+      },
+      {
+        "structure": "apollo:abandoned_tomb",
+        "weight": 2
+      },
+      {
+        "structure": "apollo:pillar_cluster",
+        "weight": 4
+      }
+    ],
+    "placement": {
+      "type": "minecraft:random_spread",
+      "spacing": 20,
+      "separation": 10,
+      "salt": 3726402
+    }
+  }
+  
