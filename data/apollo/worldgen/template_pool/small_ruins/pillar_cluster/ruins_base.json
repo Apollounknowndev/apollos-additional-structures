@@ -1,0 +1,25 @@
+{
+    "name": "apollo:small_ruins/pillar_cluster/ruins_base",
+    "fallback": "minecraft:empty",
+    "elements": [
+      {
+        "weight": 3,
+        "element": {
+          "element_type": "minecraft:single_pool_element",
+          "projection": "terrain_matching",
+          "location": "apollo:small_ruins/base_plate/small_base_plate",
+          "processors": "minecraft:empty"
+        }
+      },
+      {
+        "weight": 2,
+        "element": {
+          "element_type": "minecraft:single_pool_element",
+          "projection": "terrain_matching",
+          "location": "apollo:small_ruins/base_plate/medium_base_plate",
+          "processors": "minecraft:empty"
+        }
+      }
+    ]
+  }
+  

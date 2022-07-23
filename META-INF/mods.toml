@@ -1,0 +1,27 @@
+modLoader="lowcodefml"
+loaderVersion="[40,)"
+license="LGPL-3.0-only"
+
+[[mods]]
+  modId="apollo"
+  version="1.3"
+  displayName="Apollo's Additional Structures"
+  logoFile="pack.png"
+  authors="Apollo404"
+  description='''
+  Adds some new ambient structures into your Minecraft world!
+  '''
+
+  [[dependencies.apollo]]
+    modId="forge"
+    mandatory=true
+    versionRange="[40,)"
+    ordering="NONE"
+    side="BOTH"
+
+  [[dependencies.apollo]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.19,1.20)"
+    ordering="NONE"
+    side="BOTH"

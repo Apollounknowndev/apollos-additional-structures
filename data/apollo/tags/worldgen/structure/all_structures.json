@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    "apollo:abandoned_house",
+    "apollo:abandoned_tomb",
+    "apollo:badlands_outpost",
+    "apollo:campsite",
+    "apollo:desert_well",
+    "apollo:mangrove_hut",
+    "apollo:pillar_cluster",
+    "apollo:warden_cabin"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+    "name": "apollo:small_ruins/pillar_cluster/centerpiece",
+    "fallback": "minecraft:empty",
+    "elements": [
+      {
+        "weight": 1,
+        "element": {
+          "element_type": "minecraft:single_pool_element",
+          "projection": "rigid",
+          "location": "apollo:small_ruins/centerpiece/fountain_1",
+          "processors": "apollo:small_ruins/generic_degraded"
+        }
+      },
+      {
+        "weight": 1,
+        "element": {
+          "element_type": "minecraft:single_pool_element",
+          "projection": "rigid",
+          "location": "apollo:small_ruins/centerpiece/ruins_1",
+          "processors": "apollo:small_ruins/generic_degraded"
+        }
+      }
+    ]
+  }
+  

@@ -1,0 +1,50 @@
+{
+    "name": "apollo:campsite/tents/oak_tents",
+    "fallback": "minecraft:empty",
+    "elements": [
+      {
+        "weight": 1,
+        "element": {
+          "element_type": "minecraft:empty_pool_element",
+          "projection": "rigid"
+        }
+      },
+      {
+        "weight": 1,
+        "element": {
+          "element_type": "minecraft:single_pool_element",
+          "projection": "rigid",
+          "location": "apollo:campsite/tent/oak_tent",
+          "processors": "apollo:campsite/tents/white_wool"
+        }
+      },
+      {
+        "weight": 1,
+        "element": {
+          "element_type": "minecraft:single_pool_element",
+          "projection": "rigid",
+          "location": "apollo:campsite/tent/oak_tent",
+          "processors": "apollo:campsite/tents/black_wool"
+        }
+      },
+      {
+        "weight": 1,
+        "element": {
+          "element_type": "minecraft:single_pool_element",
+          "projection": "rigid",
+          "location": "apollo:campsite/tent/oak_tent",
+          "processors": "apollo:campsite/tents/gray_wool"
+        }
+      },
+      {
+        "weight": 1,
+        "element": {
+          "element_type": "minecraft:single_pool_element",
+          "projection": "rigid",
+          "location": "apollo:campsite/tent/oak_tent",
+          "processors": "apollo:campsite/tents/light_gray_wool"
+        }
+      }
+    ]
+  }
+  
