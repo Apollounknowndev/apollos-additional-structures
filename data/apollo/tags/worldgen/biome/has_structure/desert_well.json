@@ -57,6 +57,10 @@
     {
       "id": "wythers:wooded_desert",
       "required": false
+    },
+    {
+      "id": "tectonic:desert_dunes",
+      "required": false
     }
   ]
 }

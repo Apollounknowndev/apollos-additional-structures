@@ -35,6 +35,14 @@
     {
         "id": "wythers:red_rock_canyon",
         "required": false
+    },
+    {
+        "id": "tectonic:red_desert",
+        "required": false
+    },
+    {
+        "id": "tectonic:red_desert_dunes",
+        "required": false
     }
   ]
 }

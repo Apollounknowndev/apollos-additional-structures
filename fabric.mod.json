@@ -1,16 +1,17 @@
 {
   "schemaVersion": 1,
   "id": "apollo",
-  "version": "1.3",
+  "version": "1.3.1",
   "name": "Apollo's Additional Structures",
   "description": "Adds some new ambient structures into your Minecraft world!",
   "authors": [
-    "Apollo404"
+    "Apollo404",
+    "Skidam (Polish localization)"
   ],
   "contact": {
     "homepage": "https://www.planetminecraft.com/data-pack/apollo-s-additional-structures/"
   },
-  "license": "LGPL-3.0-only",
+  "license": "All Rights Reserved",
   "icon": "pack.png",
   "environment": "*",
   "entrypoints": {
